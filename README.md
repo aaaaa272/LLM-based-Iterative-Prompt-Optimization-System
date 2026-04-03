@@ -290,6 +290,14 @@ results/
   ]
 }
 ```
+---
+## 项目结果展示
+
+运行一个小demo进行演示
+<img width="554" height="208" alt="image" src="https://github.com/user-attachments/assets/28b48055-b3f3-4ff0-8edb-b00525980fd6" />
+<img width="554" height="729" alt="image" src="https://github.com/user-attachments/assets/7b0f24ff-b6c7-4e52-ac6b-778762d98423" />
+<img width="554" height="182" alt="image" src="https://github.com/user-attachments/assets/4e56cb67-c22c-4dd1-b2fb-06a14f29f962" />
+
 
 ---
 
