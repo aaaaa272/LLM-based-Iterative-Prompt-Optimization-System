@@ -1,0 +1,9 @@
+name: prompt_optimize
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - anthropic>=0.40.0
+      - pydantic>=2.0.0
